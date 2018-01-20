@@ -1,0 +1,33 @@
+Koeficienti iskanega polinoma od vodilnega do prostega: 
+
+P =
+
+  -0.050000000000000
+  -0.100000000000000
+   0.550000000000000
+   0.800000000000000
+
+Iskana vrednost m:
+
+ans =
+
+   0.200000000000000
+
+Vrednosti residuala v tockah iz mnozice E:
+
+ans =
+
+  Columns 1 through 4
+
+   0.200000000000000  -0.200000000000000   0.200000000000000  -0.200000000000000
+
+  Column 5
+
+   0.200000000000000
+
+Tocka v kateri je dosezen ekstrem residuala (na 6 decimalk natanèno): 
+
+y =
+
+   1.829369026422500
+
